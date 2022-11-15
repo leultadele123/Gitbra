@@ -1,3 +1,3 @@
-### this is the prject that used to prepae the the stuent whichattebd at unsa
+### this is the project that used to ###  prepare the the student for git
 
-afsdgvwbjksbdkjndskcasnkcasndkjbqhdsfa -m 
+develope your own project and use github for the best result
